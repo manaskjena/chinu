@@ -98,7 +98,7 @@ header{
 } 
 @media screen and (max-width: 450px){
     header{
-        padding: 0 30px;
+        padding: 0 10px;
     }
 } 
 /*head part end*/
